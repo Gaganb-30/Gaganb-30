@@ -17,6 +17,6 @@
 
 <!-- Snake Game Repo View -->
 
-<img src="https://raw.githubusercontent.com/Shivansh-Awasthi/Shivansh-Awasthi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gaganb-30/Gaganb-30/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
